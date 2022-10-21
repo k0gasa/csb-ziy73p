@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3646285e5252b11f70e6a66f52506af",
+    "revision": "45407346b0ed9895bd5c13fb4f340f62",
     "url": "https://k0gasa.github.io/csb-ziy73p/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://k0gasa.github.io/csb-ziy73p/static/js/2.9a0d1fc6.chunk.js"
   },
   {
-    "revision": "12331d3c23865eaf3713",
-    "url": "https://k0gasa.github.io/csb-ziy73p/static/js/main.4103545c.chunk.js"
+    "revision": "077c99b87b79474a461d",
+    "url": "https://k0gasa.github.io/csb-ziy73p/static/js/main.67fae99c.chunk.js"
   },
   {
     "revision": "cd983f6dd67bea8483df",
